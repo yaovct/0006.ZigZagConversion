@@ -55,11 +55,11 @@ class Solution(object):
 #	        					print("%d %c" % (k,s[k]))
 #        return ''.join(t)
 
-my_test = Solution()
-msg = ["ABC","PAYPALISHIRING","PAYPALISHIRING","PAYPALISHIRING","abcbabcbb","bbbbb","pwwkew","dvdf","bbtablud","nfpdmpi","dfevdfg","jbpnbwwd","umvejcuuk","tmmzuxt","ohvhjdml","anviaj","yfsrsrpzuya"]
-row = [2,3,2,4,9,1,3,2,3,3,2,3,2,3,4,2,4]
-#  "ACB","PAHNAPLSIIGYIR","PYAIHRNGAPLSIIG","PINALSIGYAHRPI"
-
-for i, m in enumerate(msg):
-	print("%s, %d = %s" % (m,row[i],my_test.convert(m,row[i])))
+#my_test = Solution()
+#msg = ["ABC","PAYPALISHIRING","PAYPALISHIRING","PAYPALISHIRING","abcbabcbb","bbbbb","pwwkew","dvdf","bbtablud","nfpdmpi","dfevdfg","jbpnbwwd","umvejcuuk","tmmzuxt","ohvhjdml","anviaj","yfsrsrpzuya"]
+#row = [2,3,2,4,9,1,3,2,3,3,2,3,2,3,4,2,4]
+##  "ACB","PAHNAPLSIIGYIR","PYAIHRNAPLSIIG","PINALSIGYAHRPI","abcbabcbb","bbbbb","pewkww","ddvf","bbbaldtu","nmfdppi","dedgfvf","jbbnwdpw","uvjukmecu","tumzxmt","omhdlvjh","avanij","ypfrzssuary"
+#
+#for i, m in enumerate(msg):
+#	print("%s, %d = %s" % (m,row[i],my_test.convert(m,row[i])))
     	
